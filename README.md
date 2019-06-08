@@ -2,6 +2,10 @@
 
 Xylophone Player
 
+> Flutter App to mimic Xylophone sounds
+
+![](SS.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
